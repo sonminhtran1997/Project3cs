@@ -20,8 +20,6 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="MainAmortization.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
+    <Library Include="..\Release\Amort.lib" />
   </ItemGroup>
 </Project>
