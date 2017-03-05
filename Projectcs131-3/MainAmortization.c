@@ -63,7 +63,7 @@
 //					printTable(double principal, double payment, 
 //									double monthlyRate, int month)
 //
-// History Log:		Commit github on 01/24/2017: 
+// History Log:		Commit github on 01/24/2017: initialize the project
 //					Commit github on 01/25/2017: 
 //					Commit github on 02/04/2017: 
 //					Commit github on 02/08/2017: 
